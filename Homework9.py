@@ -1,6 +1,6 @@
-def print_params():
-    print(1, 2, 3, 4, 5, "MyParams")
-    print(1, 2, 3, 4, 5, "MyParams")
-print_params()
+def print_params(param):
+    print(param)
+    print(param)
+print_params("Апельсин")
 
 
